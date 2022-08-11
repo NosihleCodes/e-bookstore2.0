@@ -1,0 +1,96 @@
+body{
+	background: linear-gradient(120deg,#d98d1c, #DFE8F0);
+	font-family: 'Roboto', sans-serif;
+}
+
+.registerBox{
+	width: 360px;
+	height: 620px;
+	margin: auto;
+	background-color: white;
+	border-radius: 7px;
+}
+
+.sellBox{
+	width: 360px;
+	height:450px;
+	margin: auto;
+	border-color: white;
+	border-radius: 7px;
+}
+
+.loginBox{
+	width: 360px;
+	height: 280px;
+	margin: auto;
+	border-radius: 7px;
+	background-color: white;
+}
+
+h1{
+	text-align: center;
+	padding-top: 15px;
+}
+
+form{
+	width: 300px;
+	margin-left: 20px;
+}
+
+form label{
+	display: flex;
+	margin-top: 20px;
+	font-size: 18px;
+}
+
+form input{
+	width: 100%;
+	padding: 7px;
+	border: none;
+	border: 1px solid gray;
+	border-radius: 6px;
+	outline: none;
+}
+form button{
+	width: 100%;
+	padding: 7px;
+	border: none;
+	border: 1px solid gray;
+	border-radius: 6px;
+	outline: none;
+}
+
+button[type="submit"]{
+	width: 320px;
+	height: 35px;
+	margin-top: 20px;
+	border: none;
+	background-color: #d98d1c;
+	color: white;
+	font-size: 18px;
+}
+
+p{
+	text-align: center;
+	padding-top: 20px;
+	font-size: 15px;
+}
+
+.paraLink{
+	text-align: center;
+	color: white;
+	font-size: 15px;
+	margin-top: -10px;
+}
+
+.paraLink a{
+	color: black;
+}
+
+.btnAdminLog { 
+  color: white; 
+  padding: 14px 28px; /* Add some padding */
+  cursor: pointer;
+  background-color: #d98d1c;
+  font-size: 18px;
+}

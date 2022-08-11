@@ -1,0 +1,5 @@
+Kai,Havertz,101329,kai@chelsea.com,P@ssword29;
+Christian,Pulisic,101310,christian@chelsea.com,P@ssword10;
+Ruben,Cheeck,101312,ruben@chelsea.com,P@ssword12;
+Romelu,Lukaku,10139,romelu@chelsea.com,P@ssword9;
+Reece,James,101324,reece@chelsea.com,P@ssword24;

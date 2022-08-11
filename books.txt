@@ -1,0 +1,5 @@
+images\book4.jpeg,PHP Programming Basics,1000,5;
+images\book5.jpg,Java Basics,1000,2;
+images\book6.jpg,System Analysis and Design,900,1;
+images\book7.jpg,Business Communication,500,2;
+images\book8.jpg,Analytical Techniques,200,10;
